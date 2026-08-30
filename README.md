@@ -11,9 +11,9 @@ My fascination with technology led me to develop a strong passion for cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM and Sysmon Implementation | <a href="https://google.com">Security Monitoring Homelab</a>|
+| SIEM and Sysmon Implementation | <a href="https://google.com">SOC Analyst Homelab</a>|
 | Sysmon Event Log Analysis | <a href="https://google.com">Sysmon Event Investigation with Splunk</a>|
-| IDS Deployment and Alert Monitoring | Security Monitoring HomeLab|
+| IDS Deployment and Alert Monitoring | SOC Analyst HomeLab|
 | Network Traffic Analysis | Network Traffic Investigation with Wireshark and Suricata|
 | Static and Dynamic Malware Analysis | Malware Analysis|
 | Indicators of Compromise (IOC) Analysis | Malware Analysis|
@@ -42,7 +42,7 @@ My fascination with technology led me to develop a strong passion for cybersecur
 </div>
 
 ## Projects
-- Security Monitoring Homelab
+- SOC Analyst Homelab
 - Sysmon Event Investigation with Splunk
 - Network Traffic Investigation with Wireshark and Suricata
 - Malware Analysis
